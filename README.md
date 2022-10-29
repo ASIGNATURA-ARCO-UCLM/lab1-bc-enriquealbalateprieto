@@ -34,6 +34,8 @@ acompañadas de posibles respuestas entonces has hecho un trabajo perfecto.
 
 # Participantes
 **INDICA AQUÍ LOS PARTICIPANTES**
+Enrique Albalate Prieto
+Pedro Campos Castellanos
 
 # Enlaces de utilidad
 - [¿Cómo crear un snapshot?](https://www.intel.com/content/www/us/en/develop/documentation/advisor-user-guide/top/command-line-interface/advisor-command-line-interface-reference/advisor-command-action-reference/snapshot.html): Se recomienda usar el último comando
