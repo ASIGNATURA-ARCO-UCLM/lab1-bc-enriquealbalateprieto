@@ -1,0 +1,10 @@
+-r
+/home/enrique/intel/advixe/projects/lab1tarea2/e000/mp000
+--tool=map
+--record-stack-frame
+--sample-size=300000
+--record-mem-allocations
+--app-working-dir=/home/enrique/Desktop/lab1-bc-enriquealbalateprieto/src
+--
+/home/enrique/Desktop/lab1-bc-enriquealbalateprieto/src/ejecutable.exe
+1
